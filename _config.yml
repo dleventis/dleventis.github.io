@@ -52,20 +52,20 @@ author:
   dribbble         : # Username
   github           : "dleventis"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "14754284/dimitrios-leventis" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "dimitrios.leventis.91" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "mitsologist" # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/dimleventis/ # Username
+  linkedin         : "dimleventis" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,9 +76,9 @@ author:
   twitter          : "dim_lev" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "D._Leventis" # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "@The_Mitsologist" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
