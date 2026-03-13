@@ -11,4 +11,5 @@ redirect_from:
 
 Dimitrios Leventis is a radiology resident at the University Hospital of Heraklion (PAGNI), Crete, and holds an MSc in Forensic Medicine, Anthropology, and Imaging from the University of Crete. His academic interests focus on forensic radiology, post-mortem CT (PMCT), and quantitative imaging analysis, with particular emphasis on the integration of artificial intelligence and computational methods in medical imaging research.
 
-Member of ATI Lab (https://www.atilab.net/)
+D. Leventis is also a member of the Artificial Intelligence & Translational Imaging (ATI) Laboratory at the University of Crete, where the work focuses on the integration of artificial intelligence, advanced medical imaging, and radiomics to develop innovative solutions for complex clinical problems.
+Learn more: https://www.atilab.net/
